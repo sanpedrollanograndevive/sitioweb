@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="GRAFICO1" itemID="6a1495dc-000001e7" symbolType="graphic" lastModified="1779734102">
+  <timeline>
+    <DOMTimeline name="GRAFICO1">
+      <layers>
+        <DOMLayer name="Capa 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Sin título-1.png">
+                  <matrix>
+                    <Matrix tx="-255.65" ty="-132"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

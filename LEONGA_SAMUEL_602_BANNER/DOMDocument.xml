@@ -1,0 +1,216 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#333333" width="700" height="150" currentTimeline="1" xflVersion="2.1" creatorInfo="Adobe Flash Professional CS5.5" platform="Windows" versionInfo="Saved by Adobe Flash Windows 11.5 build 325" majorVersion="11" minorVersion="5" buildNumber="325" viewAngle3D="67.0521224560653" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+     <media>
+          <DOMBitmapItem name="Sin título-1.png" itemID="6a149793-00000200" sourceExternalFilepath="./LIBRARY/Sin título-1.png" sourceLastImported="1779393268" externalFileSize="156171" originalCompressionType="lossless" quality="50" href="Sin título-1.png" bitmapDataHRef="M 1 1779733946.dat" frameRight="14000" frameBottom="3000"/>
+          <DOMBitmapItem name="Sin título-2.png" itemID="6a149793-00000201" sourceExternalFilepath="./LIBRARY/Sin título-2.png" sourceLastImported="1779733306" externalFileSize="131068" originalCompressionType="lossless" quality="50" href="Sin título-2.png" bitmapDataHRef="M 3 1779733955.dat" frameRight="14000" frameBottom="3000"/>
+          <DOMBitmapItem name="Sin título-3.png" itemID="6a149793-00000202" sourceExternalFilepath="./LIBRARY/Sin título-3.png" sourceLastImported="1779733718" externalFileSize="180031" originalCompressionType="lossless" quality="50" href="Sin título-3.png" bitmapDataHRef="M 4 1779733957.dat" frameRight="14000" frameBottom="3000"/>
+     </media>
+     <symbols>
+          <Include href="GRAFICO1.xml" itemIcon="1" loadImmediate="false" itemID="6a1495dc-000001e7" lastModified="1779734102"/>
+          <Include href="GRAFICO2.xml" itemIcon="1" loadImmediate="false" itemID="6a1495e5-000001ea" lastModified="1779734111"/>
+          <Include href="GRAFICO3.xml" itemIcon="1" loadImmediate="false" itemID="6a1495eb-000001ec" lastModified="1779734116"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Escena 1" currentFrame="124">
+               <layers>
+                    <DOMLayer name="Capa 5" color="#4FFFFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="104" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="104" duration="20" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="124" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Capa 3" color="#FF800A">
+                         <frames>
+                              <DOMFrame index="0" duration="69" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="69" duration="21" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="GRAFICO3" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="390.95" ty="204"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-40.65" y="-129"/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="90" duration="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="GRAFICO3" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="390.95" ty="204"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-40.65" y="-129"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="94" duration="21" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="GRAFICO3" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="390.95" ty="204"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-40.65" y="-129"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="115" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="GRAFICO3" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="390.95" ty="204"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-40.65" y="-129"/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Capa 2" color="#9933CC">
+                         <frames>
+                              <DOMFrame index="0" duration="34" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="34" duration="21" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="GRAFICO2" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="439.75" ty="247"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-89.6" y="-172"/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="55" duration="4" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="GRAFICO2" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="439.75" ty="247"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-89.6" y="-172"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="59" duration="21" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="GRAFICO2" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="439.75" ty="247"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-89.6" y="-172"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="80" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="GRAFICO2" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="439.75" ty="247"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-89.6" y="-172"/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Capa 1" color="#4FFF4F">
+                         <frames>
+                              <DOMFrame index="0" duration="19" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="GRAFICO1" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="255.65" ty="132"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="94.35" y="-57"/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="19" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="GRAFICO1" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="255.65" ty="132"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="94.35" y="-57"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="24" duration="20" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="GRAFICO1" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="255.65" ty="132"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="94.35" y="-57"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="44" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="GRAFICO1" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="255.65" ty="132"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="94.35" y="-57"/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0"/>
+                                             </color>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="79730" publishTime="1779996767"/>
+          <PublishItem publishSize="79731" publishTime="1779996486"/>
+     </publishHistory>
+</DOMDocument>

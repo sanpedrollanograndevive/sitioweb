@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+p{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:l1px;
+	color:#333;
+	line-height:18px;
+	padding:3px;
+	text-align: justify;
+	
+}
+
+.cursiva{
+	font-style:italic;
+	margin-left:2px;
+	line-height:14px;
+	color:#666;
+	
+}
+.resaltado {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	font-weight: bold;
+	color: #000;
+}
+
+.titulo{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 20px;
+	line-height: 18px;
+	font-weight: bold;
+	color: #333;
+	text-align:center;
+}
+
+.navegacion{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	color: #999;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #333;
+	display: block;
+	width: 140px;
+	padding: 8px;
+}
+.navegacion:hover{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	color: #FFC;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #06F;
+	display: block;
+	width: 140px;
+	padding: 8px;
+}
+.center {
+	width:800px;
+	margin:0 auto;
+}
